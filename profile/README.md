@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxsuil&label=Profile%20views&color=000000&style=flat" alt="noxsuil" /> </p>
 
-- 💬 Ask me about **We translate apps that don't have Korean (except for languages that don't have Korean).**
+- 💬 Ask me about **I will translate it into Korean. Please send me the translation link for the app by email (except for apps without Korean).**
 
 - 📫 How to reach me **wjsdudgo11313@gmail.com**
-
-- ⚡ Fun fact **I haven't decided on a name since 2024, please help me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
