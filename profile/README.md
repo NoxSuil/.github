@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Qluto</h1>
-<h3 align="center">Middle school developer developing web/bash</h3>
+<h1 align="center">Hi 👋, I'm NoxSuil</h1>
+<h3 align="center">Middle school developer. developing "web/bash".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxsuil&label=Profile%20views&color=000000&style=flat" alt="noxsuil" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wjsdudgo11313@gmail.com**
 
-- ⚡ Fun fact **He's fu&#ing who just changed his name a few times.**
+- ⚡ Fun fact **I haven't decided on a name since 2024, please help me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
