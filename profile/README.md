@@ -5,12 +5,10 @@
 
 - 📫 How to reach me
 - **wjsdudgo11313@gmail.com**
-- discord id:**dzzdrzrx**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCmnO0QvlULRFW9uSg-ADm-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxsuil" height="30" width="40" /></a>
-  <a href="https://codepen.io/dudgo-wjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noxsuil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
